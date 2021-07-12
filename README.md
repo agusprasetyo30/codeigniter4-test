@@ -2,6 +2,7 @@
 Riset ini bertujuan untuk mengetahui alur dan cara kerja CodeIgniter 4, dan untuk mengobati rasa penasaran saya :bowtie:
 
 # Tutorial
+[https://www.youtube.com/watch?v=VckqV2wC1gs&list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc](https://www.youtube.com/watch?v=VckqV2wC1gs&list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc)
 
 ## Server Requirements
 
